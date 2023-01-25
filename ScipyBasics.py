@@ -1,7 +1,5 @@
 # SciPy (Scientific Python) - written by V I E R U S
 # July 18, 2022
-# To use SciPy you must numpy as SciPy builds off of it so...
-# install 'pip install numpy' then 'pip install scipy' with cmd
 # 
 #--------------------------------------------------------------------
 #Imports
